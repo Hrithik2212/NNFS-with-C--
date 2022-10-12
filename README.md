@@ -3,6 +3,9 @@
 ## UML Class Diagram
 <img src='UML and UseCase Diagrams/ClassDiagram.jpg'>
 
+## Sequence Diagram 
+<img src='UML and UseCase Diagrams/SequenceDiagram.jpg'>
+
 
 ## Contributors 
  * Hrithik RA2111047010210
